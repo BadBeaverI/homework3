@@ -1,0 +1,15 @@
+F:\Csharp\Homework3\zda4a23\bin\Debug\net6.0\zda4a23.exe
+F:\Csharp\Homework3\zda4a23\bin\Debug\net6.0\zda4a23.deps.json
+F:\Csharp\Homework3\zda4a23\bin\Debug\net6.0\zda4a23.runtimeconfig.json
+F:\Csharp\Homework3\zda4a23\bin\Debug\net6.0\zda4a23.dll
+F:\Csharp\Homework3\zda4a23\bin\Debug\net6.0\zda4a23.pdb
+F:\Csharp\Homework3\zda4a23\obj\Debug\net6.0\zda4a23.csproj.AssemblyReference.cache
+F:\Csharp\Homework3\zda4a23\obj\Debug\net6.0\zda4a23.GeneratedMSBuildEditorConfig.editorconfig
+F:\Csharp\Homework3\zda4a23\obj\Debug\net6.0\zda4a23.AssemblyInfoInputs.cache
+F:\Csharp\Homework3\zda4a23\obj\Debug\net6.0\zda4a23.AssemblyInfo.cs
+F:\Csharp\Homework3\zda4a23\obj\Debug\net6.0\zda4a23.csproj.CoreCompileInputs.cache
+F:\Csharp\Homework3\zda4a23\obj\Debug\net6.0\zda4a23.dll
+F:\Csharp\Homework3\zda4a23\obj\Debug\net6.0\refint\zda4a23.dll
+F:\Csharp\Homework3\zda4a23\obj\Debug\net6.0\zda4a23.pdb
+F:\Csharp\Homework3\zda4a23\obj\Debug\net6.0\zda4a23.genruntimeconfig.cache
+F:\Csharp\Homework3\zda4a23\obj\Debug\net6.0\ref\zda4a23.dll
