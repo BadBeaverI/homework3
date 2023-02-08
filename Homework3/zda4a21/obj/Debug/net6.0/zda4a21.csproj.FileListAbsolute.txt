@@ -1,0 +1,15 @@
+F:\Csharp\Homework3\zda4a21\obj\Debug\net6.0\zda4a21.csproj.AssemblyReference.cache
+F:\Csharp\Homework3\zda4a21\obj\Debug\net6.0\zda4a21.GeneratedMSBuildEditorConfig.editorconfig
+F:\Csharp\Homework3\zda4a21\obj\Debug\net6.0\zda4a21.AssemblyInfoInputs.cache
+F:\Csharp\Homework3\zda4a21\obj\Debug\net6.0\zda4a21.AssemblyInfo.cs
+F:\Csharp\Homework3\zda4a21\obj\Debug\net6.0\zda4a21.csproj.CoreCompileInputs.cache
+F:\Csharp\Homework3\zda4a21\bin\Debug\net6.0\zda4a21.exe
+F:\Csharp\Homework3\zda4a21\bin\Debug\net6.0\zda4a21.deps.json
+F:\Csharp\Homework3\zda4a21\bin\Debug\net6.0\zda4a21.runtimeconfig.json
+F:\Csharp\Homework3\zda4a21\bin\Debug\net6.0\zda4a21.dll
+F:\Csharp\Homework3\zda4a21\bin\Debug\net6.0\zda4a21.pdb
+F:\Csharp\Homework3\zda4a21\obj\Debug\net6.0\zda4a21.dll
+F:\Csharp\Homework3\zda4a21\obj\Debug\net6.0\refint\zda4a21.dll
+F:\Csharp\Homework3\zda4a21\obj\Debug\net6.0\zda4a21.pdb
+F:\Csharp\Homework3\zda4a21\obj\Debug\net6.0\zda4a21.genruntimeconfig.cache
+F:\Csharp\Homework3\zda4a21\obj\Debug\net6.0\ref\zda4a21.dll
