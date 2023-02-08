@@ -7,8 +7,18 @@
 Console.Clear();
 
 Console.Write("Введите число: ");
-int n = Convert.ToInt32(Console.ReadLine());
-if (n % 161 == 0)
-    Console.WriteLine("yes");
-else
-    Console.WriteLine("no");
+string number = Console.ReadLine();
+
+if (number.Length == 5){
+  CheckingNumber(number);
+  void CheckingNumber(string number){
+  if (number[0]==number[4] || number[1]==number[3]){
+    Console.WriteLine($"Ваше число: {number} - палиндром.");
+  }
+  else Console.WriteLine($"Ваше число: {number} - НЕ палиндром.");
+}
+}
+else Console.WriteLine($"  {number} - НЕ пятизначное число. Введи пятизначное число.");
+
+
+
