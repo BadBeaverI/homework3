@@ -1,0 +1,15 @@
+F:\Csharp\Homework3\dopzada4a\bin\Debug\net6.0\dopzada4a.exe
+F:\Csharp\Homework3\dopzada4a\bin\Debug\net6.0\dopzada4a.deps.json
+F:\Csharp\Homework3\dopzada4a\bin\Debug\net6.0\dopzada4a.runtimeconfig.json
+F:\Csharp\Homework3\dopzada4a\bin\Debug\net6.0\dopzada4a.dll
+F:\Csharp\Homework3\dopzada4a\bin\Debug\net6.0\dopzada4a.pdb
+F:\Csharp\Homework3\dopzada4a\obj\Debug\net6.0\dopzada4a.csproj.AssemblyReference.cache
+F:\Csharp\Homework3\dopzada4a\obj\Debug\net6.0\dopzada4a.GeneratedMSBuildEditorConfig.editorconfig
+F:\Csharp\Homework3\dopzada4a\obj\Debug\net6.0\dopzada4a.AssemblyInfoInputs.cache
+F:\Csharp\Homework3\dopzada4a\obj\Debug\net6.0\dopzada4a.AssemblyInfo.cs
+F:\Csharp\Homework3\dopzada4a\obj\Debug\net6.0\dopzada4a.csproj.CoreCompileInputs.cache
+F:\Csharp\Homework3\dopzada4a\obj\Debug\net6.0\dopzada4a.dll
+F:\Csharp\Homework3\dopzada4a\obj\Debug\net6.0\refint\dopzada4a.dll
+F:\Csharp\Homework3\dopzada4a\obj\Debug\net6.0\dopzada4a.pdb
+F:\Csharp\Homework3\dopzada4a\obj\Debug\net6.0\dopzada4a.genruntimeconfig.cache
+F:\Csharp\Homework3\dopzada4a\obj\Debug\net6.0\ref\dopzada4a.dll

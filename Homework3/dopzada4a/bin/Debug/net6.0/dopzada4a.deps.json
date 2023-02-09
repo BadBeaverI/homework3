@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "dopzada4a/1.0.0": {
+        "runtime": {
+          "dopzada4a.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dopzada4a/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

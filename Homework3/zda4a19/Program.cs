@@ -5,20 +5,20 @@
 // 23432 -> да
 
 Console.Clear();
-
-Console.Write("Введите число: ");
-string number = Console.ReadLine();
-
-if (number.Length == 5){
-  CheckingNumber(number);
-  void CheckingNumber(string number){
-  if (number[0]==number[4] || number[1]==number[3]){
-    Console.WriteLine($"Ваше число: {number} - палиндром.");
+Console.Write("Проверка числа на палиндром, введите целое число: ");
+int number = Convert.ToInt32(Console.ReadLine());
+int etalon = number;
+int rev = 0;
+int dig;
+while(number > 0)
+  {
+    dig = number % 10;
+    rev = rev * 10 + dig;
+    number = number/10;
+    Console.WriteLine($"dig = {number} ");
+    Console.WriteLine($"rev = {rev} ");
   }
-  else Console.WriteLine($"Ваше число: {number} - НЕ палиндром.");
-}
-}
-else Console.WriteLine($"  {number} - НЕ пятизначное число. Введи пятизначное число.");
-
-
-
+if(etalon == rev)
+    Console.WriteLine($"Ваше число: {etalon} - палиндром.");
+else
+    Console.WriteLine($"Ваше число: {etalon} - НЕ палиндром.");
