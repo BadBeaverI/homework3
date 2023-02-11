@@ -6,3 +6,16 @@
 // Первая строка входного файла INPUT.TXT содержит натуральное число N (N ≤ 100) – количество учеников (не считая Петю). 
 // Во второй строке записаны N натуральных чисел Ai (Ai ≤ 200) – рост учеников в сантиметрах в порядке невозрастания. 
 // Третья строка содержит единственное натуральное число X (X ≤ 200) – рост Пети.
+Console.Clear();
+Console.Write("Введите количество учеников в классе попимо Пети: ");
+int n = Convert.ToInt32(Console.ReadLine());
+int[] array = new int[n];
+for (int i = 0; i < array.Length; i++)
+    {
+    Console.Write("Введите росты учеников в классе попимо Пети: ");
+    array[i] = Convert.ToInt32(Console.ReadLine()); // [150, 200]
+    }
+Console.Write("Введите рост Пети: ");
+int rost = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine($"[{string.Join(", ", array)} и рост пети {rost}]");
+ 
