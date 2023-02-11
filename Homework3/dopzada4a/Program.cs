@@ -1,15 +1,21 @@
-﻿Console.Clear();
-
-Console.Write("Введите число: ");
-string number = Console.ReadLine();
-
-if (number.Length == 5){
-  CheckingNumber(number);
-  void CheckingNumber(string number){
-  if (number[0]==number[4] || number[1]==number[3]){
-    Console.WriteLine($"Ваше число: {number} - палиндром.");
-  }
-  else Console.WriteLine($"Ваше число: {number} - НЕ палиндром.");
+﻿int n = Convert.ToInt32(Console.ReadLine());
+int[] array = new int[n];
+for (int i = 0; i < array.Length; i++)
+    array[i] = new Random().Next(1, 11); // [1, 10]
+  
+Console.WriteLine($"[{string.Join(", ", array)}]");
+ 
+int maxSumma = 0;
+for (int i = 1; i < array.Length - 1; i++)
+{
+  int sum = array[i - 1] + array[i] + array[i + 1];
+  if (sum > maxSumma)
+      maxSumma = sum;
 }
-}
-else Console.WriteLine($"  {number} - НЕ пятизначное число. Введи пятизначное число.");
+if (array[0] + array[1] + array[array.Length - 1] > maxSumma)
+    maxSumma = array[0] + array[1] + array[array.Length - 1];
+ 
+if (array[array.Length - 1] + array[array.Length - 2] + array[0] > maxSumma)
+    maxSumma = array[array.Length - 1] + array[array.Length - 2] + array[0];
+ 
+Console.WriteLine(maxSumma);
