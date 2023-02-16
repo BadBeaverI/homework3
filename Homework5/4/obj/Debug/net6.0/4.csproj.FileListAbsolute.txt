@@ -1,0 +1,15 @@
+F:\Csharp\Homework5\4\bin\Debug\net6.0\4.exe
+F:\Csharp\Homework5\4\bin\Debug\net6.0\4.deps.json
+F:\Csharp\Homework5\4\bin\Debug\net6.0\4.runtimeconfig.json
+F:\Csharp\Homework5\4\bin\Debug\net6.0\4.dll
+F:\Csharp\Homework5\4\bin\Debug\net6.0\4.pdb
+F:\Csharp\Homework5\4\obj\Debug\net6.0\4.csproj.AssemblyReference.cache
+F:\Csharp\Homework5\4\obj\Debug\net6.0\4.GeneratedMSBuildEditorConfig.editorconfig
+F:\Csharp\Homework5\4\obj\Debug\net6.0\4.AssemblyInfoInputs.cache
+F:\Csharp\Homework5\4\obj\Debug\net6.0\4.AssemblyInfo.cs
+F:\Csharp\Homework5\4\obj\Debug\net6.0\4.csproj.CoreCompileInputs.cache
+F:\Csharp\Homework5\4\obj\Debug\net6.0\4.dll
+F:\Csharp\Homework5\4\obj\Debug\net6.0\refint\4.dll
+F:\Csharp\Homework5\4\obj\Debug\net6.0\4.pdb
+F:\Csharp\Homework5\4\obj\Debug\net6.0\4.genruntimeconfig.cache
+F:\Csharp\Homework5\4\obj\Debug\net6.0\ref\4.dll
