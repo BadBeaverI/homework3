@@ -11,7 +11,7 @@ PrintArray(numbers);
 double min = Int32.MaxValue;
 double max = Int32.MinValue;
 
-for (int z = 2; z < numbers.Length; z++)
+for (int z = 0; z < numbers.Length; z++)
 {
     if (numbers[z] > max)
         {
