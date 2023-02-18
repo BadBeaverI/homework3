@@ -25,7 +25,6 @@ void PrintMatrix(double[,] matrix) // создаем метод вывода з�
         Console.WriteLine();
     }
 }
-
 Console.Clear();
 double[,] matrix = new double[5, 5];
 InputMatrix(matrix);
