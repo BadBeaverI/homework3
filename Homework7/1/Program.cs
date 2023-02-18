@@ -7,18 +7,17 @@
 //
 // 8 7,8 -7,1 9
 
-void InputMatrix(double[,] matrix)
+void InputMatrix(double[,] matrix) // создаем метод 
 {
     for (int i = 0; i < matrix.GetLength(0); i++)
     {
         for (int j = 0; j < matrix.GetLength(1); j++)
         {
-            matrix[i, j] = new Random().Next(-2000, 2100); // [-20, 20]
-        matrix[i, j] =  matrix[i, j]/100; // [-20, 20]
+            matrix[i, j] = new Random().Next(-100, 101); // [-10, 10]
+        matrix[i, j] =  matrix[i, j]/10; // [-10, 10]
         }
     }
 }
-
 void PrintMatrix(double[,] matrix)
 {
     for (int i = 0; i < matrix.GetLength(0); i++)
