@@ -25,17 +25,17 @@ void PrintMatrix(double[,] matrix) // создаем метод вывода з�
     }
 }
 Console.Clear();
-double[,] matrix = new double[4, 2]; // задаем размер запоняемой матрицы
+double[,] matrix = new double[4, 4]; // задаем размер запоняемой матрицы
 InputMatrix(matrix);
 PrintMatrix(matrix);
- Console.WriteLine("Введите координаты № строки ");
- int a = Convert.ToInt32(Console.ReadLine());
- Console.WriteLine("Введите координаты № столбца ");
- int b = Convert.ToInt32(Console.ReadLine());
-  if (a < 5 && b<5)
- {
- object c = matrix.GetValue(a,b);
- Console.WriteLine($"ячейка содержит данные [{c}] ");
- }
-  else
- Console.WriteLine("такой позиции в массиве нет");
+Console.WriteLine("Среднее арифметическое каждого столбца: ");
+
+for (int j = 0; j < matrix.GetLength(1); j++)
+{
+    double sum = 0;
+    for (int i = 0; i < matrix.GetLength(0); i++)
+    {
+        sum += matrix[i, j];
+    }
+    Console.Write($"[{ sum / matrix.GetLength(0)}] ");
+}
