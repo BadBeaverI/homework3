@@ -25,7 +25,7 @@ void PrintMatrix(double[,] matrix) // создаем метод вывода з�
     }
 }
 Console.Clear();
-double[,] matrix = new double[5, 5];
+double[,] matrix = new double[4, 2]; // задаем размер запоняемой матрицы
 InputMatrix(matrix);
 PrintMatrix(matrix);
  Console.WriteLine("Введите координаты № строки ");
