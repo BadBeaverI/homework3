@@ -30,7 +30,7 @@ InputMatrix(matrix);
 PrintMatrix(matrix);
 Console.WriteLine("Среднее арифметическое каждого столбца: ");
 
-for (int j = 0; j < matrix.GetLength(1); j++)
+for (int j = 0; j < matrix.GetLength(1); j++) // решение через рекурсию
 {
     double sum = 0;
     for (int i = 0; i < matrix.GetLength(0); i++)
