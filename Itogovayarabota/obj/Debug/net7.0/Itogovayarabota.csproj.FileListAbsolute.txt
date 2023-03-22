@@ -1,0 +1,15 @@
+F:\Csharp\Itogovayarabota\bin\Debug\net7.0\Itogovayarabota.exe
+F:\Csharp\Itogovayarabota\bin\Debug\net7.0\Itogovayarabota.deps.json
+F:\Csharp\Itogovayarabota\bin\Debug\net7.0\Itogovayarabota.runtimeconfig.json
+F:\Csharp\Itogovayarabota\bin\Debug\net7.0\Itogovayarabota.dll
+F:\Csharp\Itogovayarabota\bin\Debug\net7.0\Itogovayarabota.pdb
+F:\Csharp\Itogovayarabota\obj\Debug\net7.0\Itogovayarabota.csproj.AssemblyReference.cache
+F:\Csharp\Itogovayarabota\obj\Debug\net7.0\Itogovayarabota.GeneratedMSBuildEditorConfig.editorconfig
+F:\Csharp\Itogovayarabota\obj\Debug\net7.0\Itogovayarabota.AssemblyInfoInputs.cache
+F:\Csharp\Itogovayarabota\obj\Debug\net7.0\Itogovayarabota.AssemblyInfo.cs
+F:\Csharp\Itogovayarabota\obj\Debug\net7.0\Itogovayarabota.csproj.CoreCompileInputs.cache
+F:\Csharp\Itogovayarabota\obj\Debug\net7.0\Itogovayarabota.dll
+F:\Csharp\Itogovayarabota\obj\Debug\net7.0\refint\Itogovayarabota.dll
+F:\Csharp\Itogovayarabota\obj\Debug\net7.0\Itogovayarabota.pdb
+F:\Csharp\Itogovayarabota\obj\Debug\net7.0\Itogovayarabota.genruntimeconfig.cache
+F:\Csharp\Itogovayarabota\obj\Debug\net7.0\ref\Itogovayarabota.dll
